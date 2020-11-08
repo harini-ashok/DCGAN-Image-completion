@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 #
-# Brandon Amos (http://bamos.github.io)
-# License: MIT
-# 2016-08-05
 
 import argparse
 import os
