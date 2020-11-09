@@ -9,7 +9,9 @@
 
    ![Output Image](https://github.com/harini-ashok/DCGAN-Image-completion/blob/main/output/completion.gif?raw=true)
 
-
+#### Sources:
 
    DCGAN Code from: [DCGAN-tf](https://github.com/carpedm20/DCGAN-tensorflow)
+   
+   
    Dataset: [Celeb-A](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
